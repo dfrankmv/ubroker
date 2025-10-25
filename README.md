@@ -6,6 +6,11 @@
 pip install -r requirements
 ```
 
+## Internal dependencies (my other repos)
+
+- `utils` (https://github.com/dfrankmv/utils)
+- `binance` (https://github.com/dfrankmv/binance)
+
 ## Useful development resources
 
 ### VSCode setting: `python.analysis.extraPaths`
@@ -24,4 +29,12 @@ This extension is extremely useful during development. It allows me to effortles
 
 ```
 Extension ID: hegedus-mark.add-folders-easily-to-a-workspace
+```
+
+### VSCode extension: Notion MarkDown
+
+This extension is highly beneficial for editing Markdown files, significantly boosting productivity. If you're familiar with the slash (/) shortcuts in Notion, you'll find this tool an incredibly efficient and familiar way to insert elements.
+
+```
+Extension ID: UppariPavanKalyan.QuickMarkDown
 ```
