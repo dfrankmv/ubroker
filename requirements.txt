@@ -1,0 +1,14 @@
+# ==============================================================================
+# 1. EDITABLE SUBMODULES
+#
+# Installed in development mode, linking to the local ./<submodule> folder
+# ==============================================================================
+-e git+https://github.com/dfrankmv/utils.git@main#egg=utils
+-e git+https://github.com/dfrankmv/binance.git@main#egg=binance
+
+
+# ==============================================================================
+# 3. MAIN PROJECT DEPENDENCIES
+#
+# Dependencies required directly by the main repository.
+# ==============================================================================
